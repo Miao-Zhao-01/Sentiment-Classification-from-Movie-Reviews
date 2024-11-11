@@ -24,9 +24,9 @@ Figure 3 shows the binary classification results produced by different combinati
 </div>
 
 # Main References
-[1] Tomas Mikolov, Kai Chen, Gregory S. Corrado, and Jeffrey Dean. Efficient estimation of word representations in vector space. In International Conference on Learning Representations, 2013.
-[2] Vivek Narayanan, Ishan Arora, and Arjun Bhatia. Fast and accurate sentiment classification using an enhanced naive bayes model. In International Conference on Intelligent Data Engineering and Automated Learning, pages 194–201. Springer, 2013.
-[3] Anthony J. Myles, Robert N. Feudale, Yang Liu, Nathaniel A. Woody, and Steven D. Brown. An introduction to decision tree modelling. Journal of Chemometrics, 18(6):275–285, 2004.
+[1] Tomas Mikolov, Kai Chen, Gregory S. Corrado, and Jeffrey Dean. Efficient estimation of word representations in vector space. In International Conference on Learning Representations, 2013.  
+[2] Vivek Narayanan, Ishan Arora, and Arjun Bhatia. Fast and accurate sentiment classification using an enhanced naive bayes model. In International Conference on Intelligent Data Engineering and Automated Learning, pages 194–201. Springer, 2013.  
+[3] Anthony J. Myles, Robert N. Feudale, Yang Liu, Nathaniel A. Woody, and Steven D. Brown. An introduction to decision tree modelling. Journal of Chemometrics, 18(6):275–285, 2004.  
 [4] Khin Phyu Phyu Shein and Thi Thi Soe Nyunt. Sentiment classification based on ontology and SVM classifier. In 2010 Second International Conference on Communication Software and Networks, pages 169–172, 2010.
 
 
